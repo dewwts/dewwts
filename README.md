@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm Tinnapat (Dew) Sittisuwan. I'm currently a 2nd year student (rising 3rd year) in Computer Engineering at Chulalongkorn University. Passionate about website, webapp development, and large language models (LLM).
 
+**Founder and CEO at Pixelmath Education**
+
 # 💻 Tech Stack:
 
 **Programming:**
@@ -25,9 +27,32 @@ I'm Tinnapat (Dew) Sittisuwan. I'm currently a 2nd year student (rising 3rd year
 - Docker
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dewwts&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dewwts&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dewwts&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=dewwts&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="350" />
+
+</td>
+<td>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dewwts&theme=dark&hide_border=false" width="350" />
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewwts&theme=dark&hide_border=false&layout=compact" width="700" />
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dewwts&icon=0&color=0)](https://visitcount.itsvg.in)
